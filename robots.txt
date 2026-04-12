@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://talente-radar.de/sitemap.xml
